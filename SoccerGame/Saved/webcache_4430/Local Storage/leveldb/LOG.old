@@ -1,2 +1,3 @@
-2023/03/17-19:47:46.346 5c3c Creating DB C:/Users/dougr/OneDrive/Documents/Unreal Projects/SoccerGame/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2023/03/17-19:47:46.367 5c3c Reusing MANIFEST C:/Users/dougr/OneDrive/Documents/Unreal Projects/SoccerGame/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/03/17-20:21:33.356 41c0 Reusing MANIFEST C:/Users/dougr/OneDrive/Documents/Unreal Projects/SoccerGame/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/03/17-20:21:33.357 41c0 Recovering log #3
+2023/03/17-20:21:33.357 41c0 Reusing old log C:/Users/dougr/OneDrive/Documents/Unreal Projects/SoccerGame/Saved/webcache_4430\Local Storage\leveldb/000003.log 
