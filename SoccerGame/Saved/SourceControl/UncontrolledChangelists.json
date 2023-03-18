@@ -13,7 +13,20 @@
 				"C:/Users/dougr/OneDrive/Documents/Unreal Projects/SoccerGame/Content/Megascans/Surfaces/Artificial_Turf_pgbfyts0/MI_Artificial_Turf_pgbfyts0_2K.uasset",
 				"C:/Users/dougr/OneDrive/Documents/Unreal Projects/SoccerGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/dougr/OneDrive/Documents/Unreal Projects/SoccerGame/Content/Score/Scoreboard.uasset",
-				"C:/Users/dougr/OneDrive/Documents/Unreal Projects/SoccerGame/Content/MSPresets/M_MS_Foliage_Material/M_MS_Foliage_Material.uasset"
+				"C:/Users/dougr/OneDrive/Documents/Unreal Projects/SoccerGame/Content/MSPresets/M_MS_Foliage_Material/M_MS_Foliage_Material.uasset",
+				"C:/Users/dougr/OneDrive/Documents/Unreal Projects/SoccerGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/dougr/OneDrive/Documents/Unreal Projects/SoccerGame/Content/Blueprints/SoccerBlueprints/BP_SoccerGoal.uasset",
+				"C:/Users/dougr/OneDrive/Documents/Unreal Projects/SoccerGame/Content/Assets/Net.uasset",
+				"C:/Users/dougr/OneDrive/Documents/Unreal Projects/SoccerGame/Content/Assets/SM_SoccerGoal.uasset",
+				"C:/Users/dougr/OneDrive/Documents/Unreal Projects/SoccerGame/Content/Blueprints/SoccerBlueprints/BP_SoccerBall.uasset",
+				"C:/Users/dougr/OneDrive/Documents/Unreal Projects/SoccerGame/Content/Assets/SM_Ball.uasset",
+				"C:/Users/dougr/OneDrive/Documents/Unreal Projects/SoccerGame/Content/Assets/mask.uasset",
+				"C:/Users/dougr/OneDrive/Documents/Unreal Projects/SoccerGame/Content/Assets/Material.uasset",
+				"C:/Users/dougr/OneDrive/Documents/Unreal Projects/SoccerGame/Content/Assets/Material_001.uasset",
+				"C:/Users/dougr/OneDrive/Documents/Unreal Projects/SoccerGame/Content/Assets/Material_002.uasset",
+				"C:/Users/dougr/OneDrive/Documents/Unreal Projects/SoccerGame/Content/Assets/MI_AntennaDisc.uasset",
+				"C:/Users/dougr/OneDrive/Documents/Unreal Projects/SoccerGame/Content/Assets/SM_Hat.uasset",
+				"C:/Users/dougr/OneDrive/Documents/Unreal Projects/SoccerGame/Content/Assets/SM_HitActor.uasset"
 			]
 		}
 	]
