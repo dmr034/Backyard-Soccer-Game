@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/dougr/OneDrive/Documents/Unreal Projects/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/dougr/OneDrive/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"C:/Users/dougr/OneDrive/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"C:/Users/dougr/OneDrive/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/MY/QIC6VB1VW65XINSJ1E5IWC.uasset",
+				"C:/Users/dougr/OneDrive/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/C5/D7ZQNF714EKKVNMWT19EA0.uasset",
+				"C:/Users/dougr/OneDrive/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/3O/VQDHAZL555L71OVT86LU44.uasset",
+				"C:/Users/dougr/OneDrive/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/DJ/4HA95S59KE8RIE2UJO9H62.uasset",
+				"C:/Users/dougr/OneDrive/Documents/Unreal Projects/MyProject/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/dougr/OneDrive/Documents/Unreal Projects/MyProject/Content/MSPresets/M_MS_Default_Fuzz_Material/M_MS_Default_Fuzz_Material.uasset",
+				"C:/Users/dougr/OneDrive/Documents/Unreal Projects/MyProject/Content/NewPhysicalMaterial.uasset",
+				"C:/Users/dougr/OneDrive/Documents/Unreal Projects/MyProject/Content/Megascans/3D_Assets/Tundra_Boulder_viurcczaw/S_Tundra_Boulder_viurcczaw_high_Var1.uasset"
+			]
+		}
+	]
+}
